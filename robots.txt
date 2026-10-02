@@ -58,4 +58,4 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://hwirelessphonerepair.github.io/iPhone-Repair-Houston/sitemap.xml
+Sitemap: https://vercel.com/the-rb-airport-transfer/taxiservice
